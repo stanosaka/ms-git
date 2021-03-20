@@ -4,3 +4,4 @@
 
 * Report Issues
 * Suggest Enhancements
+* Stan added
